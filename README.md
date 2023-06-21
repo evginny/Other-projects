@@ -1,5 +1,4 @@
 # Other-projects
-A vari
 ## Project 1 C++ - Generic Doubly-linked List and Memory Management Simulation
 Implemented a generic doubly-linked list class template along with associated iterators.Using the created doubly-linked list, developed a basic memory management simulator. The simulator emulates the creation, allocation, deallocation, and resizing of memory blocks in a simulated operating system environment.  
 ## Project 2 C++ - Stack and Its Applications
